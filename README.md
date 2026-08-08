@@ -58,17 +58,22 @@ These findings represent initial observations from exploratory analysis and woul
 employee-attrition-analysis/
 │
 ├── Employee_attrition_analysis.ipynb
+├── Business_Understanding_Report.pdf
+├── Dataset_Inspection_Report.pdf
+├── Reflection_Report.pdf
 └── README.md
 ```
 
 ## How to Use This Project
 
-To explore the analysis:
+To explore the project:
 
-1. Download or clone this repository.
-2. Open `Employee_attrition_analysis.ipynb` using Jupyter Notebook or JupyterLab.
-3. Run the notebook cells sequentially to reproduce the analysis and visualisations.
-
+1. Open Employee_attrition_analysis.ipynb using Jupyter Notebook or
+   JupyterLab to view the data analysis, visualisations, and business insights.
+2. Refer to the Business Understanding Report for the business context and objectives of the project.
+3. Refer to the Dataset Inspection Report for details on the structure and quality of the dataset.
+4. Refer to the Reflection Report for a summary of the learning experience and skills developed during the project.
+   
 ## Author
 
 Samuel Makobe
